@@ -1,4 +1,4 @@
-# Boris-Bikes-Ruby
+# Airport-Ruby
 
 This is my solo run through of the [Airport Challenge](https://github.com/makersacademy/airport_challenge) which we covered in week 1 of the Makers' Academy. 
 
